@@ -16,6 +16,8 @@ int main()
 	cout << "Number of students:" << s2.total << endl;
 	Student s3;
 	cout << "Number of students:" << s3.total << endl;
+
+	cout<<"Enrollment no.220130318021";
 	
 	return 0;
 }
