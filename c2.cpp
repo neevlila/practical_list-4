@@ -8,6 +8,7 @@ public:
 	Student(){total += 1;}
 };
 int Student::total = 0;
+
 int main()
 {
 	Student s1;
@@ -18,7 +19,7 @@ int main()
 	cout << "Number of students:" << s3.total << endl;
 
 	cout<<"Enrollment no.220130318021";
+	cout<<"Name. Lila Neev.";
 	
 	return 0;
 }
-
